@@ -1,0 +1,50 @@
+body{
+  background-color: #F8FCFF;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+h1{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 40px;
+  text-align: center;
+}
+h2{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 30px;
+  text-align: center;
+  background-color: #64ABF6
+}
+h3{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 20px;
+}
+label{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 16px;
+}
+.ipt{
+
+}
+
+.frqc{
+
+}
+.add{
+  background-color: #B9D8FE
+}
+.go{
+  background-color: #E1EEFF;
+
+}
+.rstRcp{
+
+}
+.rstSpdg{
+
+}
+.rst{
+
+}
+.msg{
+
+}
